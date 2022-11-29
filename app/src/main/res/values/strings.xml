@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Random Number</string>
+    <string name="title_random">Escolha um número entre 0 e 10</string>
+    <string name="subtitle_random">Nenhum valor selecionado</string>
+    <string name="bt_play">Jogar</string>
+</resources>
